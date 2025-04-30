@@ -24,4 +24,12 @@ The default `delay()` function in Arduino halts the processor, which makes it un
 
 ## 👨‍💻 Author: Yash Jadhav
 
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/d1b4bde0-f0a7-429c-9ec4-f7f95a1e3e9e)
+
+### Output simulation in Protues
   
